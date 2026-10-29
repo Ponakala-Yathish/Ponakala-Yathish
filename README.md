@@ -1,44 +1,39 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Yathish — Software, systems, and open source" width="100%">
+</p>
 
-# Hi, I’m Yathish 👋
+<p align="center">
+  <a href="https://github.com/Ponakala-Yathish?tab=repositories">Projects</a> ·
+  <a href="https://github.com/ansible/apme/pull/819">Open-source contribution</a> ·
+  <a href="https://github.com/Ponakala-Yathish?tab=followers">Follow</a>
+</p>
 
-### I learn by building and contributing to open source
+I like building software end to end. My projects span machine learning, browser tools, and computer networking—from experimenting with commodity-price forecasting to simulating OpenFlow traffic rules.
 
-I work on projects in Python, machine learning, and systems, and I’m growing as an open-source contributor.
+## What I’m working on
 
-[![GitHub followers](https://img.shields.io/github/followers/Ponakala-Yathish?style=social)](https://github.com/Ponakala-Yathish?tab=followers)
-[![Repositories](https://img.shields.io/badge/Explore-repositories-181717?style=flat&logo=github)](https://github.com/Ponakala-Yathish?tab=repositories)
+Contributing to [Ansible APME](https://github.com/ansible/apme/pull/819): adding ansible-core applicability metadata to the Gateway rule catalog.
 
-</div>
+## A few projects
 
-## About me
+### [Deepfake Detection](https://github.com/Ponakala-Yathish/Deepfake-Detection)
+A Chrome extension and FastAPI service for checking image authenticity locally, with no external image uploads.
 
-- 🌱 I like learning through practical projects and collaboration.
-- 🧰 I’ve worked with Python, C, machine learning, Git, and Linux.
-- 🤝 I’m contributing to [Ansible APME](https://github.com/ansible/apme/pull/819), adding ansible-core version metadata to its rule catalog.
+### [Synthetic Silver (PAML)](https://github.com/Ponakala-Yathish/PAML)
+A time-series forecasting project exploring LSTM models for commodity prices, with notebooks, experiments, and a dashboard.
 
-## Featured projects
+### [Packet Drop Simulator](https://github.com/Ponakala-Yathish/packet-drop-sdn)
+A hands-on SDN lab using Mininet and a Ryu controller to test which network flows are dropped or forwarded.
 
-| Project | Focus |
-| --- | --- |
-| [PAML](https://github.com/Ponakala-Yathish/PAML) | Python and machine-learning notebooks |
-| [Deepfake-Detection](https://github.com/Ponakala-Yathish/Deepfake-Detection) | Deepfake detection with Python |
-| [packet-drop-sdn](https://github.com/Ponakala-Yathish/packet-drop-sdn) | Software-defined networking with Python |
-
-## Technologies
+## Tools across my projects
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 </p>
 
-<div align="center">
-
-### Thanks for stopping by!
-
-[Browse my projects](https://github.com/Ponakala-Yathish?tab=repositories) · [Connect on GitHub](https://github.com/Ponakala-Yathish)
-
-</div>
+Thanks for visiting. Have a look around my [repositories](https://github.com/Ponakala-Yathish?tab=repositories).

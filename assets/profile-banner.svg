@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Yathish</title>
+  <desc id="desc">Software, systems, and open source</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101a35"/>
+      <stop offset="1" stop-color="#173b50"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6ee7d2"/>
+      <stop offset="1" stop-color="#8db8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <circle cx="1040" cy="84" r="145" fill="none" stroke="#8db8ff" stroke-opacity=".13" stroke-width="2"/>
+  <circle cx="1040" cy="84" r="105" fill="none" stroke="#6ee7d2" stroke-opacity=".2" stroke-width="2"/>
+  <circle cx="1040" cy="84" r="65" fill="url(#accent)" fill-opacity=".13"/>
+  <path d="M0 226 C230 180 376 300 645 228 S1000 164 1200 206" fill="none" stroke="url(#accent)" stroke-opacity=".55" stroke-width="2"/>
+  <text x="76" y="128" fill="#f4f7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="-1">Yathish</text>
+  <rect x="79" y="154" width="48" height="4" rx="2" fill="url(#accent)"/>
+  <text x="76" y="202" fill="#c8d5e8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" letter-spacing="1.1">SOFTWARE · SYSTEMS · OPEN SOURCE</text>
+</svg>
